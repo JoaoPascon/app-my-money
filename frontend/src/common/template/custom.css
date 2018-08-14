@@ -1,0 +1,9 @@
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.font-size-60px.icon {
+    font-size: 60px;
+}
